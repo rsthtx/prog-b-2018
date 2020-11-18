@@ -1,5 +1,4 @@
-# prog-b-2018
-
+# Prog-B 2018-2020
 
 ## Deltagere
 
